@@ -1,0 +1,26 @@
+{
+  "spider": "https://vv.118318.xyz/upload/custom_spider.jar;md5;c0b8249fb6b238e6d63e473cd9b7288d",
+  "sites": [
+    {
+      "key": "沙拉影院APP",
+      "name": "沙拉影院APP",
+      "type": 3,
+      "api": "csp_Mac10Api",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://lz1.118318.xyz/api.php/provide/vod"
+    }
+  ],
+  "lives": [
+    {
+      "name": "live",
+      "type": 1,
+      "url": "http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1713967534&from=4&hms_devid=1143&online=1713967534&vqe=3",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
