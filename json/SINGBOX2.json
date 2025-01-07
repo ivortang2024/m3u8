@@ -3947,6 +3947,7 @@
       },
       {
         "domain_suffix": [
+          "news.tvb.com",
           "1password.com",
           "adguard.org",
           "bit.no.com",
@@ -10252,6 +10253,9 @@
           "steamuserimages-a.akamaihd.net",
           "steampipe.akamaized.net"
         ],
+        "domain_regex": [
+          ".*tvb.com"
+        ],
         "outbound": "🚀 节点选择"
       },
       {
@@ -11129,7 +11133,8 @@
           ".*lz-cdn.*com",
           ".*dowlz.*com",
           ".*rrcdnbf.*com",
-          ".*kuaikan.*com"
+          ".*kuaikan.*com",
+          ""
         ]
       },
       {
