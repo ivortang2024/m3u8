@@ -500,7 +500,7 @@
       "outbounds": [
         "DIRECT"
       ]
-    },
+    }
   ],
   "route": {
     "rules": [
