@@ -962,20 +962,6 @@
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
-        "🇭🇰 香港节点",
-        "🇨🇳 台湾节点",
-        "🇸🇬 狮城节点",
-        "🇯🇵 日本节点",
-        "🇺🇲 美国节点",
-        "🇰🇷 韩国节点",
-        "🚀 手动切换",
-        "DIRECT"
-      ]
-    },
-    {
-      "type": "selector",
-      "tag": "🚀 手动切换",
-      "outbounds": [
         "德鸡cf",
         "ovh-cf",
         "ovh-cf-ip",
