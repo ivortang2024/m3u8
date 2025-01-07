@@ -11138,7 +11138,7 @@
         ]
       },
       {
-        "rule_set": "geoip-cn",
+        "geoip": "cn",
         "outbound": "🎯 全球直连"
       }
     ],
