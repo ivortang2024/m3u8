@@ -86,7 +86,7 @@
     {
       "type": "tun",
       "tag": "tun-in",
-      "address": "172.19.0.1/30",
+      "inet4_address": "172.19.0.1/30",
       "auto_route": true,
       "strict_route": true,
       "stack": "mixed",
@@ -239,6 +239,726 @@
       "tcp_fast_open": false
     },
     {
+      "type": "shadowsocks",
+      "tag": "距离下次重置剩余：29 天",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39001,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39001,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39002,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-03",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39003,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-04",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39004,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-05",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39005,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-06",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39006,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-07",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39007,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-08",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39008,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-09",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39009,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-10",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39010,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-11",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39011,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-12",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39012,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-13",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39013,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-14",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39014,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-15",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39015,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-16",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39016,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-17",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39017,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-18",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39018,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-19",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39019,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇭🇰 香港-20",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-hk.qytnode.com",
+      "server_port": 39020,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39021,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39022,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-03",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39023,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-04",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39024,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-05",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39025,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-06",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39026,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-07",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39027,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-08",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39028,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-09",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39029,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇨🇳 台湾-10",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-tw.qytnode.com",
+      "server_port": 39030,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39031,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39032,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-03",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39033,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-04",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39034,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-05",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39035,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-06",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39036,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-07",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39037,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-08",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39038,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-09",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39039,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇸🇬 新加坡-10",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-sg.qytnode.com",
+      "server_port": 39040,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39041,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39042,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-03",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39043,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-04",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39044,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-05",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39045,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-06",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39046,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-07",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39047,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-08",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39048,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-09",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39049,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇯🇵 日本-10",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-jp.qytnode.com",
+      "server_port": 39050,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇰🇷 韩国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-kr.qytnode.com",
+      "server_port": 39051,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇰🇷 韩国-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-kr.qytnode.com",
+      "server_port": 39052,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39061,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39062,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-03",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39063,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-04",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39064,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-05",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39065,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-06",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39066,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-07",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39067,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-08",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39068,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-09",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39069,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇺🇸 美国-10",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-us.qytnode.com",
+      "server_port": 39070,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇻🇳 越南-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-vn.qytnode.com",
+      "server_port": 39071,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇵🇭 菲律宾-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-ph.qytnode.com",
+      "server_port": 39073,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇹🇭 泰国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-th.qytnode.com",
+      "server_port": 39075,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇮🇳 印度-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-in.qytnode.com",
+      "server_port": 39077,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪 德国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-de.qytnode.com",
+      "server_port": 39079,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇫🇷 法国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-fr.qytnode.com",
+      "server_port": 39081,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇬🇧 英国-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-uk.qytnode.com",
+      "server_port": 39083,
+      "method": "aes-128-gcm",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇦🇷 阿根廷-01",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-ar.qytnode.com",
+      "server_port": 39085,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇦🇷 阿根廷-02",
+      "server": "office-dd445a669c.f9umiigcm1awo6o-ar.qytnode.com",
+      "server_port": 39086,
+      "method": "chacha20-ietf-poly1305",
+      "password": "05818414-6644-468f-b213-fafee02fc3f5",
+      "network": "tcp",
+      "tcp_fast_open": false
+    },
+    {
       "type": "selector",
       "tag": "🚀 节点选择",
       "outbounds": [
@@ -249,6 +969,7 @@
         "🇺🇲 美国节点",
         "🇰🇷 韩国节点",
         "🚀 手动切换",
+        "🚀 青云机场",
         "DIRECT"
       ]
     },
@@ -262,6 +983,84 @@
         "德鸡cf-ip",
         "德鸡直连",
         "ovh"
+      ]
+    },
+    {
+      "type": "selector",
+      "tag": "🚀 青云机场",
+      "outbounds": [
+        "距离下次重置剩余：29 天",
+        "🇭🇰 香港-01",
+        "🇭🇰 香港-02",
+        "🇭🇰 香港-03",
+        "🇭🇰 香港-04",
+        "🇭🇰 香港-05",
+        "🇭🇰 香港-06",
+        "🇭🇰 香港-07",
+        "🇭🇰 香港-08",
+        "🇭🇰 香港-09",
+        "🇭🇰 香港-10",
+        "🇭🇰 香港-11",
+        "🇭🇰 香港-12",
+        "🇭🇰 香港-13",
+        "🇭🇰 香港-14",
+        "🇭🇰 香港-15",
+        "🇭🇰 香港-16",
+        "🇭🇰 香港-17",
+        "🇭🇰 香港-18",
+        "🇭🇰 香港-19",
+        "🇭🇰 香港-20",
+        "🇨🇳 台湾-01",
+        "🇨🇳 台湾-02",
+        "🇨🇳 台湾-03",
+        "🇨🇳 台湾-04",
+        "🇨🇳 台湾-05",
+        "🇨🇳 台湾-06",
+        "🇨🇳 台湾-07",
+        "🇨🇳 台湾-08",
+        "🇨🇳 台湾-09",
+        "🇨🇳 台湾-10",
+        "🇸🇬 新加坡-01",
+        "🇸🇬 新加坡-02",
+        "🇸🇬 新加坡-03",
+        "🇸🇬 新加坡-04",
+        "🇸🇬 新加坡-05",
+        "🇸🇬 新加坡-06",
+        "🇸🇬 新加坡-07",
+        "🇸🇬 新加坡-08",
+        "🇸🇬 新加坡-09",
+        "🇸🇬 新加坡-10",
+        "🇯🇵 日本-01",
+        "🇯🇵 日本-02",
+        "🇯🇵 日本-03",
+        "🇯🇵 日本-04",
+        "🇯🇵 日本-05",
+        "🇯🇵 日本-06",
+        "🇯🇵 日本-07",
+        "🇯🇵 日本-08",
+        "🇯🇵 日本-09",
+        "🇯🇵 日本-10",
+        "🇰🇷 韩国-01",
+        "🇰🇷 韩国-02",
+        "🇺🇸 美国-01",
+        "🇺🇸 美国-02",
+        "🇺🇸 美国-03",
+        "🇺🇸 美国-04",
+        "🇺🇸 美国-05",
+        "🇺🇸 美国-06",
+        "🇺🇸 美国-07",
+        "🇺🇸 美国-08",
+        "🇺🇸 美国-09",
+        "🇺🇸 美国-10",
+        "🇻🇳 越南-01",
+        "🇵🇭 菲律宾-01",
+        "🇹🇭 泰国-01",
+        "🇮🇳 印度-01",
+        "🇩🇪 德国-01",
+        "🇫🇷 法国-01",
+        "🇬🇧 英国-01",
+        "🇦🇷 阿根廷-01",
+        "🇦🇷 阿根廷-02"
       ]
     },
     {
@@ -3227,7 +4026,6 @@
       },
       {
         "domain_suffix": [
-          "news.tvb.com",
           "1password.com",
           "adguard.org",
           "bit.no.com",
@@ -9533,9 +10331,6 @@
           "steamuserimages-a.akamaihd.net",
           "steampipe.akamaized.net"
         ],
-        "domain_regex": [
-          ".*tvb.com"
-        ],
         "outbound": "🚀 节点选择"
       },
       {
@@ -10413,8 +11208,7 @@
           ".*lz-cdn.*com",
           ".*dowlz.*com",
           ".*rrcdnbf.*com",
-          ".*kuaikan.*com",
-          ""
+          ".*kuaikan.*com"
         ]
       },
       {
