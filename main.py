@@ -1,8 +1,8 @@
 import json
 
 # 文件名
-m3u_filename = 'm3u/20250105.m3u'
-json_filename = 'json/20250105.json'
+m3u_filename = 'm3u/20250108.m3u'
+json_filename = 'json/20250108.json'
 
 
 # 将M3U文件内容转换为JSON格式
