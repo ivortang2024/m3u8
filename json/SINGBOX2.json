@@ -66,7 +66,7 @@
     "independent_cache": true,
     "fakeip": {
       "enabled": true,
-      "range": "198.18.0.0/15"
+      "inet4_range": "198.18.0.0/15"
     }
   },
   "ntp": {
