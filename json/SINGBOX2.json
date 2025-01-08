@@ -10423,7 +10423,7 @@
         "type": "remote",
         "format": "binary",
         "url": "https://sp.118318.xyz/https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs",
-        "download_detour": "proxy"
+        "download_detour": "🎯 全球直连"
       }
     ],
     "auto_detect_interface": true,
