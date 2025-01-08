@@ -10413,8 +10413,17 @@
         ]
       },
       {
-        "geoip": "cn",
+        "rule_set": "geosite-cn",
         "outbound": "🎯 全球直连"
+      }
+    ],
+    "rule_set": [
+      {
+        "tag": "geosite-cn",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://sp.118318.xyz/https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs",
+        "download_detour": "proxy"
       }
     ],
     "auto_detect_interface": true,
