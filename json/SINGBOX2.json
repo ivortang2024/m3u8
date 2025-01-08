@@ -39,8 +39,8 @@
         "server": "dns_resolver"
       },
       {
-        "geosite": [
-          "category-ads-all"
+        "rule_set": [
+          "geosite-category-ads-all"
         ],
         "server": "dns_block",
         "disable_cache": true
@@ -10430,6 +10430,13 @@
         "type": "remote",
         "format": "binary",
         "url": "https://sp.118318.xyz/https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
+        "tag": "geosite-category-ads-all",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://sp.118318.xyz/https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ads-all.srs",
         "download_detour": "🎯 全球直连"
       }
     ],
